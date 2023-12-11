@@ -29,8 +29,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Edward
-
-
+assert home_for_the_holidays("Wilk")
+assert brings_figgy_pudding(4, 3, 1, 0)
 
 # Emilia
 
